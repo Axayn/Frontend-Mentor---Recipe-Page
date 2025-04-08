@@ -10,7 +10,7 @@
 
 ### Links
 
-- Live Site URL: [frontend-mentor-recipe-page](https://frontend-mentor-social-links-profile0.netlify.app/)
+- Live Site URL: [frontend-mentor-recipe-page](https://frontend-mentor-recipe-page0.netlify.app/)
 
 ## My process
 
