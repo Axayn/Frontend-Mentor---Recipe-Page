@@ -103,6 +103,10 @@ textarea:not([rows]) {
   --color-white: #ffffff;
 }
 
-li::marker {
+.recipe-page__list--rose li::marker {
   color: var(--color-rose-800);
+}
+
+.recipe-page__list--brown li::marker {
+  color: var(--color-brown-800);
 }

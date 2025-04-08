@@ -30,8 +30,8 @@
 }
 
 .recipe-page__title {
-  font-size: 4rem;
   font-family: "Young Serif";
+  font-size: 4rem;
   font-weight: 400;
   line-height: 1;
   color: var(--color-stone-900);
@@ -48,12 +48,15 @@
 .preparation__title {
   font-size: 2rem;
   font-weight: 600;
+  line-height: 1;
   color: var(--color-rose-800);
 }
 
 .recipe-page__title--secondary {
-  font-size: 2.8rem;
   font-family: "Young Serif";
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1;
   color: var(--color-brown-800);
 }
 
@@ -97,7 +100,7 @@ td {
   padding-right: 3.2rem;
 
   font-weight: 700;
-  color: var(--color-rose-800);
+  color: var(--color-brown-800);
 }
 
 th,
